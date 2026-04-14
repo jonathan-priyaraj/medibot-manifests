@@ -5,7 +5,7 @@ metadata:
   name: medibot-config
   namespace: webapps
 data:
-  BEDROCK_REGION: "ap-south-1"
+  BEDROCK_REGION: "us-east-1"
   BEDROCK_MODEL_ID: "apac.amazon.nova-lite-v1:0"
   MYSQL_HOST: "mysql-service"
   MYSQL_DB: "medibotdb"
