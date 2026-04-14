@@ -12,7 +12,7 @@ metadata:
     alb.ingress.kubernetes.io/certificate-arn: "arn:aws:acm:us-east-1:868917999126:certificate/8d827238-b8be-40a8-9774-e583cc212300"
 spec:
   rules:
-  - host: medibot.kirandevops.xyz
+  - host: medibot.jonathandevops.xyz
     http:
       paths:
       - path: /
