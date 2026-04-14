@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
       - name: medibot
-        image: 496203436083.dkr.ecr.ap-south-1.amazonaws.com/medibot:v1
+        image: 868917999126.dkr.ecr.us-east-1.amazonaws.com/medibot:v7
         ports:
         - containerPort: 8080
         env:
